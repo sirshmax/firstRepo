@@ -1,2 +1,2 @@
 # firstRepo
-This is first try for git hub 
+This is first try for git hub by sirshmax
